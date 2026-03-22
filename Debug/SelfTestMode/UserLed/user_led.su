@@ -1,0 +1,2 @@
+../SelfTestMode/UserLed/user_led.c:11:6:UserLedInit	4	static
+../SelfTestMode/UserLed/user_led.c:26:6:UserLedUpdate	16	static

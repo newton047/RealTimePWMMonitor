@@ -1,0 +1,4 @@
+../SelfTestMode/Motor/motor.c:11:6:MotorInt	4	static
+../SelfTestMode/Motor/motor.c:39:6:MotorStart	4	static
+../SelfTestMode/Motor/motor.c:72:6:MotorSpeedUpdate	16	static
+../SelfTestMode/Motor/motor.c:79:6:MotorStop	4	static

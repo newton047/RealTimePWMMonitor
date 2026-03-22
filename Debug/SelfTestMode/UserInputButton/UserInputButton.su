@@ -1,0 +1,2 @@
+../SelfTestMode/UserInputButton/UserInputButton.c:11:6:UserButtonInit	4	static
+../SelfTestMode/UserInputButton/UserInputButton.c:23:5:UserButtonRead	16	static

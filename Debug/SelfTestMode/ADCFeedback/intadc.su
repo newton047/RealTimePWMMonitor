@@ -1,0 +1,4 @@
+../SelfTestMode/ADCFeedback/intadc.c:10:6:IntADCInit	4	static
+../SelfTestMode/ADCFeedback/intadc.c:27:6:IntADCStart	4	static
+../SelfTestMode/ADCFeedback/intadc.c:54:5:readAdc	16	static
+../SelfTestMode/ADCFeedback/intadc.c:74:7:ConvertToVoltage	16	static

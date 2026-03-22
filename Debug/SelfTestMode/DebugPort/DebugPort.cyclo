@@ -1,0 +1,6 @@
+../SelfTestMode/DebugPort/DebugPort.c:10:6:UARTPinInit	1
+../SelfTestMode/DebugPort/DebugPort.c:40:6:UARTTXInit	1
+../SelfTestMode/DebugPort/DebugPort.c:69:6:UARTSend	2
+../SelfTestMode/DebugPort/DebugPort.c:81:6:UARTSendChar	3
+../SelfTestMode/DebugPort/DebugPort.c:95:6:DebugPortInit	1
+../SelfTestMode/DebugPort/DebugPort.c:104:6:DebugPortSend	1

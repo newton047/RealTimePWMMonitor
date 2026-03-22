@@ -1,0 +1,4 @@
+../SelfTestMode/ADCFeedback/intadc.c:10:6:IntADCInit	1
+../SelfTestMode/ADCFeedback/intadc.c:27:6:IntADCStart	1
+../SelfTestMode/ADCFeedback/intadc.c:54:5:readAdc	2
+../SelfTestMode/ADCFeedback/intadc.c:74:7:ConvertToVoltage	1

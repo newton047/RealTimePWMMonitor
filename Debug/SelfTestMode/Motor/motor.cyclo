@@ -1,0 +1,4 @@
+../SelfTestMode/Motor/motor.c:11:6:MotorInt	1
+../SelfTestMode/Motor/motor.c:39:6:MotorStart	1
+../SelfTestMode/Motor/motor.c:72:6:MotorSpeedUpdate	1
+../SelfTestMode/Motor/motor.c:79:6:MotorStop	1

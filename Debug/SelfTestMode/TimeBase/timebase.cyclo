@@ -1,0 +1,3 @@
+../SelfTestMode/TimeBase/timebase.c:19:6:TimeBaseInit	1
+../SelfTestMode/TimeBase/timebase.c:45:5:TimeBaseRegisterCallback	2
+../SelfTestMode/TimeBase/timebase.c:69:6:SysTick_Handler	4

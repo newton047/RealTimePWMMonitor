@@ -1,0 +1,6 @@
+../SelfTestMode/DebugPort/DebugPort.c:10:6:UARTPinInit	4	static
+../SelfTestMode/DebugPort/DebugPort.c:40:6:UARTTXInit	16	static
+../SelfTestMode/DebugPort/DebugPort.c:69:6:UARTSend	24	static
+../SelfTestMode/DebugPort/DebugPort.c:81:6:UARTSendChar	16	static
+../SelfTestMode/DebugPort/DebugPort.c:95:6:DebugPortInit	8	static
+../SelfTestMode/DebugPort/DebugPort.c:104:6:DebugPortSend	16	static

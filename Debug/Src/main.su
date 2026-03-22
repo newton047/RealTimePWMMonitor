@@ -1,0 +1,5 @@
+../Src/main.c:66:6:SecondIncrementer	232	static
+../Src/main.c:85:6:UserButtonHandler	16	static
+../Src/main.c:108:6:ADCReadHandler	16	static
+../Src/main.c:125:6:ErrorCheckerHandler	16	static
+../Src/main.c:158:5:main	8	static

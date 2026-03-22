@@ -1,0 +1,2 @@
+../SelfTestMode/UserLed/user_led.c:11:6:UserLedInit	1
+../SelfTestMode/UserLed/user_led.c:26:6:UserLedUpdate	2
